@@ -13,6 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
+// 用户登录控制器
 @Controller
 public class LoginController {
 
